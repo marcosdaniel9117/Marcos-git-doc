@@ -1,8 +1,8 @@
 class Persona:
     def __init__(self, n, a):
-        self.nombres = n
-        self.apellidos = a
+        self.Marcos-Daniel= n
+        self.Janco = a
     
     def mostrar(self):
-        print(f"Nombres: {self.nombres}")
-        print(f"Apellidos: {self.apellidos}")
+        print(f"Nombres: {self.Marcos-Daniel}")
+        print(f"Apellidos: {self.Janco}")
